@@ -45,18 +45,7 @@ A simple console-based Number Guessing Game built with Java. The program generat
 
 ---
 
-## 📂 Project Structure
-
-   ```bash
-number-guessing-game/
-│
-├── NumberGuess.java     // Main source code
-├── README.md            // This file
-└── output.txt           // (Optional) Output or saved results
-
----
-
-## 🚀 Output
+## 📂 Output
 
 ![Screenshot 2025-04-17 152349](https://github.com/user-attachments/assets/9480b168-460b-4b03-a2a7-88aa4314acfa)
 
