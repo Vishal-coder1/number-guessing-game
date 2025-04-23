@@ -53,7 +53,6 @@ number-guessing-game/
 ├── README.md            // This file
 └── output.txt           // (Optional) Output or saved results
 
-
 ---
 
 ## 🚀 Output
@@ -71,9 +70,3 @@ This project is open-source and available under the MIT License.
 ## 🙌 Author
 
 Made with 💙 by Vishal Kumar
-
-
-
-
-
-
