@@ -46,7 +46,7 @@ A simple console-based Number Guessing Game built with Java. The program generat
 ---
 
 ## 📂 Project Structure
-```bash
+
 number-guessing-game/
 │
 ├── NumberGuess.java     // Main source code
