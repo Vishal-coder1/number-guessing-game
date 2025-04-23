@@ -46,12 +46,13 @@ A simple console-based Number Guessing Game built with Java. The program generat
 ---
 
 ## 📂 Project Structure
-
+```typescript
 number-guessing-game/
 │
 ├── NumberGuess.java     // Main source code
 ├── README.md            // This file
-└── (Optional output files or logs)
+└── output.txt           // (Optional) Output or saved results
+
 
 ---
 
